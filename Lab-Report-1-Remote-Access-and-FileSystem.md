@@ -34,7 +34,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
   5. `pwd`
   6. `..`
   7. `exit` (to log out the remote serve or you could use Command/Ctrl-D)
-
+  ![Image]()
 
 //should include all steps you took along with screenshots of what eachstep look like
 //have at least 3 screenshots, one for each of the steps below
