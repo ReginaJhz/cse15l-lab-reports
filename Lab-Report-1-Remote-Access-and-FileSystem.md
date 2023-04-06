@@ -16,7 +16,6 @@ this page will describe how to log into a course-specific account on ieng6 for C
   3. then type in your password to connect to the remote server 
   4. if it is your first time connecting to the server thers' going to be the following code occuring on your sceen. If it is you operating type in `yes` and press enter
   ```
-  #code
   The authenticity of host 'ieng6.ucsd.edu (128.54.70.238)' can't be established.
   RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
   This key is not known by any other names
