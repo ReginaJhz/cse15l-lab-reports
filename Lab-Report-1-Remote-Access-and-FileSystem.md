@@ -33,7 +33,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
   4. `mkdir`
   5. `pwd`
   6. `..`
-  7. 'exit' (to log out the remote serve or you could use Command/Ctrl-D)
+  7. `exit` (to log out the remote serve or you could use Command/Ctrl-D)
 
 
 //should include all steps you took along with screenshots of what eachstep look like
