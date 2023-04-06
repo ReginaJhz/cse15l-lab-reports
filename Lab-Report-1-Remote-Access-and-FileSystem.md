@@ -24,14 +24,21 @@ this page will describe how to log into a course-specific account on ieng6 for C
   ```
   5. after you press enter, retype your password and return enter again
   6. Connected!
+  ![Image](StepTwo.png)
+## Try Some Commands
+  You could try out the following commands
+  1. `cd ~`
+  2. `ls`
+  3. `ls <directory>`
+  4. `mkdir`
+  5. `pwd`
+  6. '..'
+  7. 'exit' (to log out the remote serve or you could use Command/Ctrl-D)
 
 
- 
 //should include all steps you took along with screenshots of what eachstep look like
 //have at least 3 screenshots, one for each of the steps below
 // for each step write at least 2-3 sentences of bullet point desciring what you did
-2. Remotelt Connecting
-3. Try Some Commands
 
 You will upload your submission by publishing the page on Github Pages, then printing the page to PDF and uploading to the Lab Report 1 assignment on Gradescope.
 
