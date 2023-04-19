@@ -26,7 +26,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
   ![Image](StepTwo.png)
 ## Try Some Commands
   You could try out the following commands
-  1. `cd ~`
+  1. `cd ~`\n
       This command typically is used in the command line to change the current working directory
   2. `ls`
       This command is typically used in the command line to list the files and directories in the current working directory
