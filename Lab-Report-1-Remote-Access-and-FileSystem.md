@@ -49,7 +49,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
   6. `..`
   
       `..` is a relative path operator that allows you to navigate to the parent directory or your current working directory 
-  7. `exit` (to log out the remote serve or you could use Command/Ctrl-D)
+  7. `exit`  (to log out the remote serve or you could use Command/Ctrl-D)
   
       `exit` allows you to log out the remote serve in the command line.
   ![Image](StepThree.png)
