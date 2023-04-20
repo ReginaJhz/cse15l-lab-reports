@@ -31,7 +31,6 @@ this page will describe how to log into a course-specific account on ieng6 for C
       This command typically is used in the command line to change the current working directory
       
       `~` is often used as the a shorthand for the user's home directory
-      ![Image](cd.png)
   2. `ls`
   
       This command is typically used in the command line to list the files and directories in the current working directory
