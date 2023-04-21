@@ -46,8 +46,10 @@ this page will describe how to log into a course-specific account on ieng6 for C
       ![Image](mkdir.png)
       This command typically is used in the command line to create a new directory
   5. `pwd`
-  
+
+
       This command writes to standard output the full path name of your current directory.
+      ![Image](pwd.png)
   6. `..`
   
       `..` is a relative path operator that allows you to navigate to the parent directory or your current working directory 
