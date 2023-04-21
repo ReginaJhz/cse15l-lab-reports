@@ -42,7 +42,8 @@ this page will describe how to log into a course-specific account on ieng6 for C
       `ls<directory>` is similar to ls, which also shows the files in the current working directory in the command line. But differnt from `ls`,            `ls<directory>` can be used to list the files of another directory other than than the one you are currently working on.
       ![Image](lss.png)
   4. `mkdir`
- 
+
+      ![Image[(mkdir.png)
       This command typically is used in the command line to create a new directory
   5. `pwd`
   
