@@ -8,8 +8,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
   Click download on the blue download button on the top right corner of the webpage
   ![Image](StepOne.png)
 
- # Remotely Connecting
- 
+## Remote Connect 
  
   Once installed Java and VSCode on your computer you are all set to get connected the remote
   servers
