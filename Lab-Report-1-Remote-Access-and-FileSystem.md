@@ -43,7 +43,7 @@ this page will describe how to log into a course-specific account on ieng6 for C
       ![Image](lss.png)
   4. `mkdir`
 
-      ![Image[(mkdir.png)
+      ![Image](mkdir.png)
       This command typically is used in the command line to create a new directory
   5. `pwd`
   
