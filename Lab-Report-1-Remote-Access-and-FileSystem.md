@@ -56,5 +56,10 @@ this page will describe how to log into a course-specific account on ieng6 for C
   7. `exit`  (to log out the remote serve or you could use Command/Ctrl-D)
   
       `exit` allows you to log out the remote serve in the command line.
+      ![Image](exit.png)
+      
+      
+      
+      
   ![Image](StepThree.png)
 
