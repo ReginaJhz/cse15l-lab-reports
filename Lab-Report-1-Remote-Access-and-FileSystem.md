@@ -9,6 +9,8 @@ this page will describe how to log into a course-specific account on ieng6 for C
   ![Image](StepOne.png)
 
  ## Remotely Connecting
+ 
+ 
   Once installed Java and VSCode on your computer you are all set to get connected the remote
   servers
   1. open a terminal in VSCode (Control or Command(depending on which operating system you arte using) or use the new terminal menu option)
