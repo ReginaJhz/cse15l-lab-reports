@@ -1396,7 +1396,9 @@ Example 2:
 
 ## Example for Four Interesting command-line options - `-w`
 Example 1:
+![Image](35.png)
 Example 2:
+![Image](36.png)
 ## Example for Four Interesting command-line options - `-i`
 Example 1:
 ![Image](31.png)
