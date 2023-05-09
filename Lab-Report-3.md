@@ -21,7 +21,9 @@ Example 1:
 Example 2:
 ## Example for Four Interesting command-line options - `-i`
 Example 1:
+![Image](31.png)
 Example 2:
+![Image](32.png)
 
 That makes 8 total examples, all focused on a single command. There should be two examples each for four different command-line options. Many commands like these have pretty sophisticated behavior possible – it can take years to be exposed to and learn all of the possible tricks and inner workings.
 
