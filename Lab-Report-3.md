@@ -18,11 +18,10 @@ Use ‘-n’ option in grep command to display line and its number which matches
 * I found this operation on https://www.linuxtechi.com/grep-command-examples-in-linux/
 
 
-## Example for Four Interesting command-line options - `-w`
-Example 1:
-![Image](35.png)
-Example 2:
-![Image](36.png)
+## Example for Four Interesting command-line options - `grep '^$'`
+Grep command can also print all the empty or blank lines from a file use the special character combination ‘^$’ , example is shown below:
+* I found this operation on https://www.linuxtechi.com/grep-command-examples-in-linux/
+
 ## Example for Four Interesting command-line options - `-i`
 Example 1:
 ![Image](31.png)
