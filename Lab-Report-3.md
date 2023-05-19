@@ -23,6 +23,9 @@ Grep command can also print all the empty or blank lines from a file use the spe
 * I found this operation on https://www.linuxtechi.com/grep-command-examples-in-linux/
 
 ## Example for Four Interesting command-line options - `-i`
+Grep command can also print the characters ignoring case sensitivity. 
+* I found this operation on https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix#ignoring-case-sensitivity
+
 Example 1:
 ![Image](31.png)
 Example 2:
