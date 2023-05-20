@@ -70,5 +70,17 @@ open the buggy file ListExamples.java with vim, using `vim <filename>`.
  
  ## Commit and push the resulting change to your Github account 
  
+ ![Image](commit.png)
  
  
+ ![Image](push.png)
+ 
+ 
+ `git commit -m "change ListExamples.java"` `<enter>`
+ 
+ `git push -u origin main `
+ 
+ 
+The `git commit` command is used to save changes to the local Git repository. The `-m` flag is followed by a commit message in quotes `""`, which describes the changes made in the commit. This command creates a new commit with the changes and associates the commit message with it.
+
+The `git push` command is used to upload local commits to a remote repository, in this case my github repository. The `-u` flag sets up tracking between the local branch and the remote branch. It enables the use of the shorthand command git push for future pushes. origin refers to the name of the remote repository where you want to push your changes. main represents the branch name. In this case, it's assuming the main branch as the target for pushing the changes. When running this command, Git pushes the local commits to the specified remote repository and branch.
