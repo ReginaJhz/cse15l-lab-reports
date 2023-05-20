@@ -9,7 +9,7 @@
 3. `grep '^$'`
 4. `grep -i`
 ```
-* the four command-line option will all opearte on the text file below: 
+* the four command-line option will all opearte on the text file below (except for one example for `grep '^$'`): 
 
 
 ![Image](file.png)
@@ -50,6 +50,18 @@ Use ‘-n’ option in grep command to display line and its number which matches
 ## Example for Four Interesting command-line options - `grep '^$'`
 Grep command can also print all the empty or blank lines from a file use the special character combination ‘^$’ , example is shown below:
 * I found this operation on https://www.linuxtechi.com/grep-command-examples-in-linux/
+
+
+Example 1: 
+
+
+![Iamge](b1.png)
+
+
+Example 2:
+
+
+![Image](b2.png)
 
 ## Example for Four Interesting command-line options - `grep -i`
 Grep command can also print the characters ignoring case sensitivity. 
