@@ -78,7 +78,14 @@ Example 2:
 Grep command can also print the characters ignoring case sensitivity. 
 * I found this operation on https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix#ignoring-case-sensitivity
 
-Example 1:
-![Image](31.png)
+
+Example 1: 
+
+
+![Iamge](i1.png)
+
+
 Example 2:
-![Image](32.png)
+
+
+![Image](i2.png)
