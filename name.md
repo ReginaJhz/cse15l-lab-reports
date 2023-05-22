@@ -37,14 +37,14 @@ Key pressed:sh test.sh<enter>
 * change ListExamples.java's code
  ```
 Key pressed:vim ListExamples.java<Enter> 
-enter line 44：
-<esc>:44 
-get to character "1":
+enter line 44<：>
+<esc><:>44 
+get to character "1"<:>
 <l><l><l><l><l> move cursor to right
-change "1" to "2":
+change "1" to "2"<:>
 r2
 save file:
-<esc>:wq <enter>
+<esc><:>wq <enter>
  ```
 ![Image](lab4_7.png)
 * retest the code:
