@@ -45,7 +45,7 @@ change "1" to "2":
 r2
 save file:
 <esc>:wq <enter>
-```
+ ```
 ![Image](lab4_7.png)
 * retest the code:
 
