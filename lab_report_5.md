@@ -96,13 +96,17 @@ public class SwapArray {
         }
     }
 }
+```
+
 
 the full command line I ran to trigger the bug: 
+
 
 ```
 chmod +x run_swap.sh
 ./run_swap.sh
 ```
+
 
 A description of what to edit to edit to fix the bug:
 
