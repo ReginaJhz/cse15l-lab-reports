@@ -38,6 +38,8 @@ The bug is caused by the code 'array[a+1]' and 'array[b+1]' in the swapping oper
 **All information needed about the setup**: 
 
 1. 
+   
+   
    *the file and directory sturcutre*
 
    | - Desktop: 
@@ -45,7 +47,9 @@ The bug is caused by the code 'array[a+1]' and 'array[b+1]' in the swapping oper
        | - SwapArray.java
        
 2. 
-   *the contents of run_swap.sh*
+  
+  
+  *the contents of run_swap.sh*
 
 ```
 javac SwapArray.java
