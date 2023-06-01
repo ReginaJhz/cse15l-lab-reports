@@ -40,10 +40,16 @@ The bug is caused by the code 'array[a+1]' and 'array[b+1]' in the swapping oper
 1. 
    
    
+   
    *the file and directory sturcutre*
 
+
    | - Desktop: 
+
+
        | - run_swap.sh
+       
+       
        | - SwapArray.java
        
 2. 
