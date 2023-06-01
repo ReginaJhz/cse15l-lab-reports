@@ -43,10 +43,10 @@ The bug is caused by the code 'array[a+1]' and 'array[b+1]' in the swapping oper
    | - Desktop
 
 
-       | - run_swap.sh
+              | - run_swap.sh
        
        
-       | - SwapArray.java
+              | - SwapArray.java
        
 2. 
   
